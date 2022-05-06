@@ -7,9 +7,9 @@ const App = () => {
     <>
       <h1>Hello React ! ! !</h1>
       <h2>Blorby</h2>
-      <Greeting />
-      <Greeting />
-      <Greeting />
+      <Greeting name='Bordle' />
+      <Greeting name='Crusticus' />
+      <Greeting name='Great Flimby' />
     </>
   );
 };
